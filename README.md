@@ -20,17 +20,4 @@ Input and output
 
 The input should be taken in the form of commands input via the command line. The statements should consist of commands and arguments. Commands can include ‘signup’, ‘newsfeed’, ‘upvote’ etc. Arguments can vary depending on the commands.
 
-Example - reply(feed_id, reply_text)
-Question 1: Class Diagram
-Create a class diagram to fulfil the above given set of requirements. Ensure your class diagram contains all entities required as well as mention classes around any design patterns you may use in the system. Create the diagram on https://draw.io and share the URL via submission form below. Ensure the link you share is visible in an incognito tab without requiring any login.
-
-Submission Form: https://interviewbit.typeform.com/to/JoJqBOVg
-Question 2: Schema Design
-Create a schema design to fulfil the above given set of requirements. Ensure all relationships are taken care of as well as mention the cardinality of relationship between each pair of entities separately. Create the design on https://draw.io and share the URL via submission form below. Ensure the link you share is visible in an incognito tab without requiring any login.
-
-
-Submission Form: https://interviewbit.typeform.com/to/SSCn85bn
-Question 3: Machine Coding
-Implement requirement 1, 2 above. Ensure you follow best practices of structuring your codebase. Your codebase should be able to take inputs from the command line in the format specified. The data can be persisted in memory or a real Database. You can write code in any programming language. Please push the code to Github and share the repository URL via submission form below. Ensure the link you share is visible in an incognito tab without requiring any login.
-
-Submission Form: https://interviewbit.typeform.com/to/NLISWdfm 
+PLEASE REFER 'sample_commands.txt' file FOR SAMPLE INPUT COMMANDS
